@@ -1,7 +1,7 @@
 [![MasterHead](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)]
 <h1 align="center">Hi 👋, I'm Zeyad Elmahdy</h1>
 <h3 align="center">Cs Student / Junior full stack web developer</h3>
-<img align="right" alt="Coding" width"400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width"400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyad010&label=Profile%20views&color=0e75b6&style=flat" alt="zeyad010" /> </p>
 
