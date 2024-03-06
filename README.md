@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Cs Student /  .Net Core Developer</h3>
+<h3 align="left">Cs Student /  .Net  Developer</h3>
 
 ###
 
